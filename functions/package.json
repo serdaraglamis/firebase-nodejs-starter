@@ -8,5 +8,6 @@
     "consolidate": "^0.14.5",
     "express": "^4.15.4"
   },
-  "private": true
+  "private": true,
+  "engines": { "node": "8" }
 }
