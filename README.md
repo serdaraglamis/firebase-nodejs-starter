@@ -24,7 +24,7 @@ $ firebase use --add
 ```
   - Its ready you can test it locally by typing  (With live reload feature. Thanks to firebase !)
 ```sh
-$ firebase server --only functions,hosting
+$ firebase serve --only functions,hosting
 ```
 - Also You can deploy project to live url with typing (It will give your url :) )
 ```sh
